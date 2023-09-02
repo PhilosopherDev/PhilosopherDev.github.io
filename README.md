@@ -1,1 +1,0 @@
-# PhilosopherDev.github.io
