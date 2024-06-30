@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkphilosopher_dev=self.webpackChunkphilosopher_dev||[]).push([[691],{7200:function(e,t,l){l.r(t);var s=l(7294);t.default=()=>s.createElement("div",{className:"min-h-screen bg-gray-100 flex items-center justify-center"},s.createElement("h1",{className:"text-4xl text-blue-500"},"Hello, TailwindCSS with Gatsby!"))}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-5687130965b1a93df204.js.map
