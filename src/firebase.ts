@@ -11,6 +11,8 @@ const firebaseConfig = {
     appId: process.env.GATSBY_FIREBASE_APP_ID
 };
 
+console.log({ projectId: firebaseConfig.projectId })
+
 const app = initializeApp(firebaseConfig);
 const firestore = getFirestore(app);
 
